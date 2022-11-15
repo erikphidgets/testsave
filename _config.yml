@@ -1,0 +1,8 @@
+makecode:
+  target: phidgets
+  platform: phidgets
+  home_url: https://www.phidgets.com
+theme: jekyll-theme-slate
+include:
+  - assets
+  - README.md

@@ -1,0 +1,22 @@
+{
+    "name": "Untitled",
+    "description": "",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.10",
+        "targetId": "phidgets"
+    },
+    "supportedTargets": [
+        "phidgets"
+    ]
+}
