@@ -18,5 +18,6 @@
     },
     "supportedTargets": [
         "phidgets"
-    ]
+    ],
+    "preferredEditor": "blocksprj"
 }
